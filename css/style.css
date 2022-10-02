@@ -49,5 +49,5 @@ transition: all 0.275s ease-in;
 
 @font-face{
     font-family: 'font1';
-    src: url(./fonts/Roboto-Bold.ttf);
+    src: url(../fonts/Roboto-Bold.ttf);
 }
